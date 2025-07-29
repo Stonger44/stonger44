@@ -2,14 +2,10 @@
 I'm **Brian** – Game Developer, Software Engineer, and occasional Goober.  
 I’m currently building games in **Unreal Engine** and **Unity**, learning all I can along the way!
 
----
-
 ## ⚙️ Tech I Use
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-stong-b36218133/)
