@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm **Brian** – Game Developer, Software Engineer, and occasional Goober.  
+I'm **Brian** – Game Developer, Software Engineer, Goober.  
 I’m currently building games in **Unreal Engine** and **Unity**, learning all I can along the way!
 
 ## ⚙️ Tech I Use
