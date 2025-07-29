@@ -1,6 +1,6 @@
 # 👋 Hi there!
-I'm **Brian** – Game Developer, Software Engineer, regular dude making games people can enjoy!  
-Currently building games in **Unreal Engine** and **Unity**
+I'm **Brian** – Game Developer, Software Engineer.  
+I’m currently building games in **Unreal Engine** and **Unity**, learning all I can along the way!
 
 ## ⚙️ Tech I Use
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
