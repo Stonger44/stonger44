@@ -1,6 +1,7 @@
-# 👋 Hi there!
-I'm **Brian Kenji Stong!** – Game Developer, Software Engineer, Goober.  
-I’m currently building games in **Unreal Engine** and **Unity**, learning all I can along the way!
+# 👋 Hi, I'm **Brian Kenji Stong**!
+Game Developer, Software Engineer, Goober.
+
+Currently building games in **Unreal Engine** and **Unity**, learning all I can along the way!
 
 ## ⚙️ Tech I Use
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
