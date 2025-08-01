@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Brian Kenji Stong**!
-Game Developer | Unreal Engine Developer | Unity Developer | Software Engineer | C# Developer
+Game Developer | Unreal Engine Developer | Unity Developer | C# Developer | Software Engineer
 
 ## ⚙️ Tech I Use
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
