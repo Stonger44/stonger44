@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Brian Kenji Stong**!
+# 👋 Hi, I'm **Brian Stong**!
 Game Developer | Unreal Engine Developer | Unity Developer | C# Developer | Software Engineer
 
 ## ⚙️ Tech I Use
