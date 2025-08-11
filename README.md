@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Brian Stong**!
-Game Developer Unity Developer | C# Developer | Unreal Engine Developer | C++ Developer | Software Engineer
+Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ Developer | Software Engineer
 
 ## ⚙️ Tech
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
