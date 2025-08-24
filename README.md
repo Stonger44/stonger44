@@ -20,12 +20,12 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
 ## Cozy Island
 A relaxing resource-gathering game inspired by calming ASMR audio.
 
-- **Modular resource tracking system** for buildable actors  
+<!-- - **Modular resource tracking system** for buildable actors  
 - **Hybrid collision/line trace interaction system** with custom channels  
-- **Dynamic footstep audio system** using physical material detection via trace  
+- **Dynamic footstep audio system** using physical material detection via trace   -->
 
 <br />
-<br />
+---
 <br />
 
 <img src="assets/images/GalaxyShooter_Screenshot.jpg" align="left" alt="Galaxy Shooter Screenshot" width="400"/>
@@ -33,12 +33,12 @@ A relaxing resource-gathering game inspired by calming ASMR audio.
 ## Galaxy Shooter
 Horizontal space shooter with difficulty inspired by Dark Souls.
 
-- **Multi-phase boss** with regenerating shields, destructible generators, and timed vulnerability  
+<!-- - **Multi-phase boss** with regenerating shields, destructible generators, and timed vulnerability  
 - **Time-slowing boost**, homing missiles, and space bombs for high-impact tactical play  
-- **Strategic power-up mechanics** that must be earned and used wisely  
+- **Strategic power-up mechanics** that must be earned and used wisely   -->
 
 <br />
-<br />
+---
 <br />
 
 <img src="assets/images/MechTowerDefense_Screenshot.jpg" align="left" alt="Mech Tower Defense Screenshot" width="400"/>
@@ -46,6 +46,6 @@ Horizontal space shooter with difficulty inspired by Dark Souls.
 ## Mech Tower Defense
 Endless tower defense game with deployable, repairable, and upgradeable towers.
 
-- **Indirect-fire missile launcher** for targeting heavy mechs  
+<!-- - **Indirect-fire missile launcher** for targeting heavy mechs  
 - **Responsive HUD** that flickers yellow on damage, turns red at low health, and resets on restart  
-- **Tower mechanics** including deployment, repair, and upgrades for adaptive strategy  
+- **Tower mechanics** including deployment, repair, and upgrades for adaptive strategy   -->
