@@ -14,7 +14,7 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://stonger44.itch.io/)
 
 ## 🎮 Projects
-### Cozy Island
+## Cozy Island
 <img src="assets/images/CozyIsland_Screenshot.jpg" alt="Cozy Island Screenshot" width="500"/>
 
 A relaxing resource-gathering game inspired by calming ASMR audio.
@@ -25,7 +25,7 @@ A relaxing resource-gathering game inspired by calming ASMR audio.
 
 ---
 
-### Galaxy Shooter
+## Galaxy Shooter
 <img src="assets/images/GalaxyShooter_Screenshot.jpg" alt="Galaxy Shooter Screenshot" width="500"/>
 
 Horizontal space shooter with difficulty inspired by Dark Souls.
@@ -36,7 +36,7 @@ Horizontal space shooter with difficulty inspired by Dark Souls.
 
 ---
 
-### Mech Tower Defense
+## Mech Tower Defense
 <img src="assets/images/MechTowerDefense_Screenshot.jpg" alt="Mech Tower Defense Screenshot" width="500"/>
 
 Endless tower defense game with deployable, repairable, and upgradeable towers.
