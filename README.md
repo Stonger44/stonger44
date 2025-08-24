@@ -25,7 +25,8 @@ A relaxing resource-gathering game inspired by calming ASMR audio.
 - **Dynamic footstep audio system** using physical material detection via trace   -->
 
 <br />
----
+<br />
+<br />
 <br />
 
 <img src="assets/images/GalaxyShooter_Screenshot.jpg" align="left" alt="Galaxy Shooter Screenshot" width="400"/>
@@ -38,7 +39,8 @@ Horizontal space shooter with difficulty inspired by Dark Souls.
 - **Strategic power-up mechanics** that must be earned and used wisely   -->
 
 <br />
----
+<br />
+<br />
 <br />
 
 <img src="assets/images/MechTowerDefense_Screenshot.jpg" align="left" alt="Mech Tower Defense Screenshot" width="400"/>
