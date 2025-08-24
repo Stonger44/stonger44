@@ -25,10 +25,13 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
         A relaxing resource-gathering game inspired by calming ASMR audio.
         <ul>
             <li>
+                <strong>Modular resource tracking system</strong> for buildable actors
             </li>
             <li>
+                <strong>Hybrid collision/line trace interaction system</strong> with custom channels
             </li>
             <li>
+                <strong>Dynamic footstep audio system</strong> using physical material detection via trace
             </li>
         </ul>
       </div>
@@ -48,13 +51,10 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
         Horizontal space shooter with difficulty inspired by Dark Souls.
         <ul>
             <li>
-                Modular resource tracking system for buildable actors
             </li>
             <li>
-                Hybrid collision/line trace interaction system with custom channels
             </li>
             <li>
-                Dynamic footstep audio system using physical material detection via trace
             </li>
         </ul>
       </div>
