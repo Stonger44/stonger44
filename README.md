@@ -23,8 +23,6 @@ A relaxing resource-gathering game inspired by calming ASMR audio.
 - **Hybrid collision/line trace interaction system** with custom channels  
 - **Dynamic footstep audio system** using physical material detection via trace  
 
-[🔗 View on GitHub](https://github.com/Stonger44/Cozy-Island)
-
 ---
 
 ### Galaxy Shooter
@@ -35,8 +33,6 @@ Horizontal space shooter with difficulty inspired by Dark Souls.
 - **Multi-phase boss** with regenerating shields, destructible generators, and timed vulnerability  
 - **Time-slowing boost**, homing missiles, and space bombs for high-impact tactical play  
 - **Strategic power-up mechanics** that must be earned and used wisely  
-
-[🔗 View on GitHub](https://github.com/Stonger44/Galaxy-Shooter)
 
 ---
 
