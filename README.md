@@ -15,7 +15,7 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
 
 ## 🎮 Projects
 
-<img src="assets/images/CozyIsland_Screenshot.jpg" align="left" alt="Cozy Island Screenshot" width="400px"/>
+<img src="assets/images/CozyIsland_Screenshot.jpg" alt="Cozy Island Screenshot" width="400px"/>
 
 # Cozy Island
 A relaxing resource-gathering game inspired by calming ASMR audio.
@@ -29,7 +29,7 @@ A relaxing resource-gathering game inspired by calming ASMR audio.
 <br />
 <br />
 
-<img src="assets/images/GalaxyShooter_Screenshot.jpg" align="left" alt="Galaxy Shooter Screenshot" width="400px"/>
+<img src="assets/images/GalaxyShooter_Screenshot.jpg" alt="Galaxy Shooter Screenshot" width="400px"/>
 
 # Galaxy Shooter
 Horizontal space shooter with difficulty inspired by Dark Souls.
@@ -43,7 +43,7 @@ Horizontal space shooter with difficulty inspired by Dark Souls.
 <br />
 <br />
 
-<img src="assets/images/MechTowerDefense_Screenshot.jpg" align="left" alt="Mech Tower Defense Screenshot" width="400px"/>
+<img src="assets/images/MechTowerDefense_Screenshot.jpg" alt="Mech Tower Defense Screenshot" width="400px"/>
 
 # Mech Tower Defense
 Endless tower defense game with deployable, repairable, and upgradeable towers.
