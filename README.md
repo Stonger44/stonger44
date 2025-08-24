@@ -35,9 +35,6 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
             </li>
         </ul>
       </div>
-      <div>
-        <a href="https://github.com/Stonger44/Cozy-Island">🔗 View Repo</a>
-      </div>
     </td>
   </tr>
   <tr>
@@ -60,9 +57,6 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
             </li>
         </ul>
       </div>
-      <div>
-        <a href="https://github.com/Stonger44/Galaxy-Shooter">🔗 View Repo</a>
-      </div>
     </td>
   </tr>
   <tr>
@@ -84,9 +78,6 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
                 <strong>Tower mechanics</strong> including deployment, repair, and upgrades for adaptive strategy
             </li>
         </ul>
-      </div>
-      <div>
-        <a href="https://github.com/Stonger44/Mech-Tower-Defense">🔗 View Repo</a>
       </div>
     </td>
   </tr>
