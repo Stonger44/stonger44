@@ -51,10 +51,13 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
         Horizontal space shooter with difficulty inspired by Dark Souls.
         <ul>
             <li>
+                <strong>Multi-phase boss</strong> with regenerating shields, destructible generators, and timed vulnerability
             </li>
             <li>
+                <strong>Time-slowing boost</strong>, homing missiles, and space bombs for high-impact tactical play
             </li>
             <li>
+                <strong>Strategic power-up mechanics</strong> that must be earned and used wisely
             </li>
         </ul>
       </div>
@@ -74,10 +77,13 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
         Endless tower defense game with deployable, repairable, and upgradeable towers.
         <ul>
             <li>
+                <strong>Indirect-fire missile launcher</strong> for targeting heavy mechs
             </li>
             <li>
+                <strong>Responsive HUD</strong> that flickers yellow on damage, turns red at low health, and resets on restart
             </li>
             <li>
+                <strong>Tower mechanics</strong> including deployment, repair, and upgrades for adaptive strategy
             </li>
         </ul>
       </div>
