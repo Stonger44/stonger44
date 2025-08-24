@@ -15,39 +15,30 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
 
 ## 🎮 Projects
 
-<img src="assets/images/CozyIsland_Screenshot.jpg" alt="Cozy Island Screenshot" width="400px"/>
-
 # Cozy Island
+<img src="assets/images/CozyIsland_Screenshot.jpg" alt="Cozy Island Screenshot" width="400px"/>
 A relaxing resource-gathering game inspired by calming ASMR audio.
 
-- **Modular resource tracking system** for buildable actors  
-- **Hybrid collision/line trace interaction system** with custom channels  
-- **Dynamic footstep audio system** using physical material detection via trace  
+- **Modular resource tracking system** for buildable actors
+- **Hybrid collision/line trace interaction system** with custom channels
+- **Dynamic footstep audio system** using physical material detection via trace
 
-<br />
-<br />
-<br />
-<br />
-
-<img src="assets/images/GalaxyShooter_Screenshot.jpg" alt="Galaxy Shooter Screenshot" width="400px"/>
+---
 
 # Galaxy Shooter
+<img src="assets/images/GalaxyShooter_Screenshot.jpg" alt="Galaxy Shooter Screenshot" width="400px"/>
 Horizontal space shooter with difficulty inspired by Dark Souls.
 
-- **Multi-phase boss** with regenerating shields, destructible generators, and timed vulnerability  
-- **Time-slowing boost**, homing missiles, and space bombs for high-impact tactical play  
-- **Strategic power-up mechanics** that must be earned and used wisely  
+- **Multi-phase boss** with regenerating shields, destructible generators, and timed vulnerability
+- **Time-slowing boost**, homing missiles, and space bombs for high-impact tactical play
+- **Strategic power-up mechanics** that must be earned and used wisely
 
-<br />
-<br />
-<br />
-<br />
-
-<img src="assets/images/MechTowerDefense_Screenshot.jpg" alt="Mech Tower Defense Screenshot" width="400px"/>
+---
 
 # Mech Tower Defense
+<img src="assets/images/MechTowerDefense_Screenshot.jpg" alt="Mech Tower Defense Screenshot" width="400px"/>
 Endless tower defense game with deployable, repairable, and upgradeable towers.
 
-- **Indirect-fire missile launcher** for targeting heavy mechs  
-- **Responsive HUD** that flickers yellow on damage, turns red at low health, and resets on restart  
-- **Tower mechanics** including deployment, repair, and upgrades for adaptive strategy  
+- **Indirect-fire missile launcher** for targeting heavy mechs
+- **Responsive HUD** that flickers yellow on damage, turns red at low health, and resets on restart
+- **Tower mechanics** including deployment, repair, and upgrades for adaptive strategy
