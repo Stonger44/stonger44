@@ -16,6 +16,7 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
 ## 🎮 Projects
 
 ## Cozy Island
+
 <img src="assets/images/CozyIsland_Screenshot.jpg" alt="Cozy Island Screenshot" width="400px"/>
 A relaxing resource-gathering game inspired by calming ASMR audio.
 
@@ -26,6 +27,7 @@ A relaxing resource-gathering game inspired by calming ASMR audio.
 ---
 
 ## Galaxy Shooter
+
 <img src="assets/images/GalaxyShooter_Screenshot.jpg" alt="Galaxy Shooter Screenshot" width="400px"/>
 Horizontal space shooter with difficulty inspired by Dark Souls.
 
@@ -36,6 +38,7 @@ Horizontal space shooter with difficulty inspired by Dark Souls.
 ---
 
 ## Mech Tower Defense
+
 <img src="assets/images/MechTowerDefense_Screenshot.jpg" alt="Mech Tower Defense Screenshot" width="400px"/>
 Endless tower defense game with deployable, repairable, and upgradeable towers.
 
