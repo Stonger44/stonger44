@@ -14,6 +14,9 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://stonger44.itch.io/)
 
 ## 🎮 Projects
+
+<div align="center">
+
 ## Cozy Island
 <img src="assets/images/CozyIsland_Screenshot.jpg" alt="Cozy Island Screenshot" width="500"/>
 
@@ -44,3 +47,5 @@ Endless tower defense game with deployable, repairable, and upgradeable towers.
 - **Indirect-fire missile launcher** for targeting heavy mechs  
 - **Responsive HUD** that flickers yellow on damage, turns red at low health, and resets on restart  
 - **Tower mechanics** including deployment, repair, and upgrades for adaptive strategy  
+
+</div>
