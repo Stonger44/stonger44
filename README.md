@@ -48,13 +48,13 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
         Horizontal space shooter with difficulty inspired by Dark Souls.
         <ul>
             <li>
-                <strong>Modular resource tracking system</strong> for buildable actors
+                Modular resource tracking system for buildable actors
             </li>
             <li>
-                <strong>Hybrid collision/line trace interaction system</strong> with custom channels
+                Hybrid collision/line trace interaction system with custom channels
             </li>
             <li>
-                <strong>Dynamic footstep audio system</strong> using physical material detection via trace
+                Dynamic footstep audio system using physical material detection via trace
             </li>
         </ul>
       </div>
