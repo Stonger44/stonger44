@@ -23,6 +23,14 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
       <h3>Cozy Island</h3>
       <div>
         A relaxing resource-gathering game inspired by calming ASMR audio.
+        <ul>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+        </ul>
       </div>
       <div>
         <a href="https://github.com/Stonger44/Cozy-Island">🔗 View on GitHub</a>
@@ -38,6 +46,17 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
       <h3>Galaxy Shooter</h3>
       <div>
         Horizontal space shooter with difficulty inspired by Dark Souls.
+        <ul>
+            <li>
+                <strong>Modular resource tracking system</strong> for buildable actors
+            </li>
+            <li>
+                <strong>Hybrid collision/line trace interaction system</strong> with custom channels
+            </li>
+            <li>
+                <strong>Dynamic footstep audio system</strong> using physical material detection via trace
+            </li>
+        </ul>
       </div>
       <div>
         <a href="https://github.com/Stonger44/Galaxy-Shooter">🔗 View on GitHub</a>
@@ -52,7 +71,15 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
     <td>
       <h3>Mech Tower Defense</h3>
       <div>
-        Endless tower defense game with deployable, repairable, and upgradeable towers. 
+        Endless tower defense game with deployable, repairable, and upgradeable towers.
+        <ul>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+        </ul>
       </div>
       <div>
         <a href="https://github.com/Stonger44/Mech-Tower-Defense">🔗 View on GitHub</a>
