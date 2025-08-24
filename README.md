@@ -16,65 +16,77 @@ Game Developer | Unity Developer | C# Developer | Unreal Engine Developer | C++ 
 ## 🎮 Projects
 <table>
   <tr>
-    <td style="width:30%; min-width:200px;">
-      <img src="assets/images/CozyIsland_Screenshot.jpg" alt="Cozy Island Screenshot" width="100%" />
+    <td width="30%">
+      <img src="assets/images/CozyIsland_Screenshot.jpg" alt="Cozy Island Screenshot" />
     </td>
-    <td style="vertical-align: top;">
+    <td>
       <h3>Cozy Island</h3>
       <div>
         A relaxing resource-gathering game inspired by calming ASMR audio.
         <ul>
-          <li><strong>Modular resource tracking system</strong> for buildable actors</li>
-          <li><strong>Hybrid collision/line trace interaction system</strong> with custom channels</li>
-          <li><strong>Dynamic footstep audio system</strong> using physical material detection via trace</li>
+            <li>
+                <strong>Modular resource tracking system</strong> for buildable actors
+            </li>
+            <li>
+                <strong>Hybrid collision/line trace interaction system</strong> with custom channels
+            </li>
+            <li>
+                <strong>Dynamic footstep audio system</strong> using physical material detection via trace
+            </li>
         </ul>
       </div>
       <div>
-        <a href="https://github.com/Stonger44/Cozy-Island">🔗 View on GitHub</a>
+        <a href="https://github.com/Stonger44/Cozy-Island">🔗 View Repo</a>
       </div>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td style="width:30%; min-width:200px;">
-      <img src="assets/images/GalaxyShooter_Screenshot.jpg" alt="Galaxy Shooter Screenshot" width="100%" />
+    <td width="30%">
+      <img src="assets/images/GalaxyShooter_Screenshot.jpg" alt="Galaxy Shooter Screenshot" />
     </td>
-    <td style="vertical-align: top;">
+    <td>
       <h3>Galaxy Shooter</h3>
       <div>
         Horizontal space shooter with difficulty inspired by Dark Souls.
         <ul>
-          <li><strong>Multi-phase boss</strong> with regenerating shields, destructible generators, and timed vulnerability</li>
-          <li><strong>Time-slowing boost</strong>, homing missiles, and space bombs for high-impact tactical play</li>
-          <li><strong>Strategic power-up mechanics</strong> that must be earned and used wisely</li>
+            <li>
+                <strong>Multi-phase boss</strong> with regenerating shields, destructible generators, and timed vulnerability
+            </li>
+            <li>
+                <strong>Time-slowing boost</strong>, homing missiles, and space bombs for high-impact tactical play
+            </li>
+            <li>
+                <strong>Strategic power-up mechanics</strong> that must be earned and used wisely
+            </li>
         </ul>
       </div>
       <div>
-        <a href="https://github.com/Stonger44/Galaxy-Shooter">🔗 View on GitHub</a>
+        <a href="https://github.com/Stonger44/Galaxy-Shooter">🔗 View Repo</a>
       </div>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td style="width:30%; min-width:200px;">
-      <img src="assets/images/MechTowerDefense_Screenshot.jpg" alt="Mech Tower Defense Screenshot" width="100%" />
+    <td width="30%">
+      <img src="assets/images/MechTowerDefense_Screenshot.jpg" alt=" Screenshot" />
     </td>
-    <td style="vertical-align: top;">
+    <td>
       <h3>Mech Tower Defense</h3>
       <div>
         Endless tower defense game with deployable, repairable, and upgradeable towers.
         <ul>
-          <li><strong>Indirect-fire missile launcher</strong> for targeting heavy mechs</li>
-          <li><strong>Responsive HUD</strong> that flickers yellow on damage, turns red at low health, and resets on restart</li>
-          <li><strong>Tower mechanics</strong> including deployment, repair, and upgrades for adaptive strategy</li>
+            <li>
+                <strong>Indirect-fire missile launcher</strong> for targeting heavy mechs
+            </li>
+            <li>
+                <strong>Responsive HUD</strong> that flickers yellow on damage, turns red at low health, and resets on restart
+            </li>
+            <li>
+                <strong>Tower mechanics</strong> including deployment, repair, and upgrades for adaptive strategy
+            </li>
         </ul>
       </div>
       <div>
-        <a href="https://github.com/Stonger44/Mech-Tower-Defense">🔗 View on GitHub</a>
+        <a href="https://github.com/Stonger44/Mech-Tower-Defense">🔗 View Repo</a>
       </div>
     </td>
   </tr>
